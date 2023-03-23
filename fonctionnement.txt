@@ -1,0 +1,5 @@
+Demande des information puis elles se convertissent en json
+Via les data json c'est envoyer vers un webhook zapier
+Qui va ensuite modifier la template google slide avec les data demandée
+Puis envoyer la slide fini par mail a moi-meme
+Et rajouter un lien dans un google sheet
